@@ -126,7 +126,7 @@ The Datablase has many more outcomes recorded than the Feed shows on the officia
 
 Please note that one game event might have 2 or 3 outcomes associated with it. 
 
-## Notable Views
+### Notable Views
 
 TODO... for now, please ask in the `#datablase` channel on the SIBR Discord for help deciphering what all these crazy views are.
 
